@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495281740331",
+    "firebase_url": "https://medicine-stock-dbc52.firebaseio.com",
+    "project_id": "medicine-stock-dbc52",
+    "storage_bucket": "medicine-stock-dbc52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495281740331:android:e5ca04df1bc5943b26a86e",
+        "android_client_info": {
+          "package_name": "ms.paket.medicinestock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495281740331-h0via40of9o3k50sshs8dg3vj7me7qrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ms.paket.medicinestock",
+            "certificate_hash": "893563147c43682ff3844daefe058767fe39bea2"
+          }
+        },
+        {
+          "client_id": "495281740331-7okcjot7vvd8104b2k1a476e2e6hcjdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJjPM7PvO564Afgzcs7nLExwq1J1JT8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495281740331-7okcjot7vvd8104b2k1a476e2e6hcjdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

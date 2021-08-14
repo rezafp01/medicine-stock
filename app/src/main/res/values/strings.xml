@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Medicine Stok</string>
+    <string name="login">Sign In</string>
+    <string name="user">username</string>
+    <string name="pass">Password</string>
+    <string name="daftar">Register</string>
+    <string name="sign_in">Login</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="stok_obat">Stok Obat</string>
+    <string name="aturan_pakai">Aturan Pakai</string>
+    <string name="cara_pakai_obat">Cara Pakai Obat</string>
+    <string name="url_gambar">url gambar</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nama_obat">Nama Obat</string>
+    <string name="data_obat">Data Obat</string>
+    <string name="beranda">Beranda</string>
+    <string name="medicine_stock">Medicine Stock</string>
+    <string name="silahkan_cek_obat_yang_anda_cari">Silahkan cek Obat yang anda cari</string>
+    <string name="apotek">Apotek</string>
+    <string name="obat">Obat</string>
+    <string name="no_Obat_found">Tidak ada obat yang ditemukan</string>
+
+
+    <array name="category_img">
+        <item>@drawable/mahakam</item>
+        <item>@drawable/natures_energy</item>
+        <item>@drawable/buana</item>
+        <item>@drawable/ocean</item>
+
+    </array>
+
+    <array name="category_name">
+        <item>Mahakam</item>
+        <item>Natures Energy</item>
+        <item>Buana</item>
+        <item>Ocean Fresh</item>
+
+
+    </array>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
